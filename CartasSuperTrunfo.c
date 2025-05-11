@@ -73,8 +73,8 @@ int main() {
     printf("Digite o PIB: \n");
     scanf("%f", &pib2);
 
-    densidade1 = populacao1 / area1;        //Atualizando a Densidade Populacional para exibição depois
-    pib_per_capita1 = pib1 / populacao1;    //Atualizando o PIB per Capita para exibição depois
+    densidade2 = populacao2 / area2;        //Atualizando a Densidade Populacional para exibição depois
+    pib_per_capita2 = pib2 / populacao2;    //Atualizando o PIB per Capita para exibição depois
 
     printf("Digite o numero de pontos turisticos: \n");
     scanf("%d", &pontos_turisticos2);
