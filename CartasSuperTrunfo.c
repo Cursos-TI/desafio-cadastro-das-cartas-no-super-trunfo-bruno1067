@@ -36,7 +36,7 @@ int main() {
     printf("Digite o codigo da cidade (ex: A01): \n");
     scanf("%s", codigo1);
 
-    printf("Digite o nome da cidade (ex: Rio): \n");
+    printf("Digite o nome da cidade (ex: Rio, etc. Obs: Não use espaços entre as palavras!): \n");
     scanf("%s", nome_cidade1);
 
     printf("Digite a populacao: \n");
@@ -61,7 +61,7 @@ int main() {
     printf("Digite o codigo da cidade (ex: B02): \n");
     scanf("%s", codigo2);
 
-   printf("Digite o nome da cidade (ex: Salvador): \n");
+   printf("Digite o nome da cidade (ex: Salvador. Obs: Não use espaços entre as palavras!): \n");
     scanf("%s", nome_cidade2);
 
     printf("Digite a populacao: \n");
